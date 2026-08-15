@@ -1,6 +1,6 @@
 {
-  "version": "1.1.9",
-  "notes": "Satış bilgi fişi, teknik servis teslim fişi ve 2. el alım sözleşmesindeki tüm sabit metinler düzenlenebilir şablonlara dönüştürüldü. Başlık, 30 gün teslim şartı, taahhüt, imza ve ek notlar değiştirilebilir veya silinebilir; dinamik müşteri, IMEI, ürün ve tutar alanları korunur. Varsayılan şablonlara dönüş düğmesi eklendi.",
+  "version": "1.1.10",
+  "notes": "Firma logosu satış, teknik servis ve 2. el belgelerinde yazdırılırken otomatik olarak tek renk siyaha dönüştürülür. Beyaz arka plan şeffaf bırakılır; renkli logonun fişte siyah ve net görünmesi sağlandı.",
   "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.9/IkizSoft_TelefonStokTakip_v1.1.9_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.10/IkizSoft_TelefonStokTakip_v1.1.10_Gorsel_Kurulum.exe"
 }
