@@ -1,6 +1,6 @@
 {
-  "version": "1.1.8",
-  "notes": "Satış, teknik servis ve 2. el telefon ekranlarına Hızlı Müşteri düğmesi ile Ctrl+M kısayolu eklendi. Yeni müşteri POS'ta otomatik seçilir, servis formunda listeye eklenir, 2. el alımında satıcı adı ve telefonu doldurulur. Ctrl+N, Ctrl+S, Ctrl+Enter, Ctrl+E, Ctrl+P, Ctrl+W, Ctrl+H, F5 ve Esc işlem kısayolları eklendi.",
+  "version": "1.1.9",
+  "notes": "Satış bilgi fişi, teknik servis teslim fişi ve 2. el alım sözleşmesindeki tüm sabit metinler düzenlenebilir şablonlara dönüştürüldü. Başlık, 30 gün teslim şartı, taahhüt, imza ve ek notlar değiştirilebilir veya silinebilir; dinamik müşteri, IMEI, ürün ve tutar alanları korunur. Varsayılan şablonlara dönüş düğmesi eklendi.",
   "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.8/IkizSoft_TelefonStokTakip_v1.1.8_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.9/IkizSoft_TelefonStokTakip_v1.1.9_Gorsel_Kurulum.exe"
 }
