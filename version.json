@@ -1,6 +1,6 @@
 {
-  "version": "1.1.7",
-  "notes": "Teknik servis kaydında mevcut müşterinin yeniden eklenmeye çalışılması nedeniyle oluşan UNIQUE constraint failed: Customers.Id hatası giderildi. Yeni servis kaydı ve düzenleme işlemleri artık yalnızca doğrulanmış müşteri kimliğini kullanır.",
+  "version": "1.1.8",
+  "notes": "Satış, teknik servis ve 2. el telefon ekranlarına Hızlı Müşteri düğmesi ile Ctrl+M kısayolu eklendi. Yeni müşteri POS'ta otomatik seçilir, servis formunda listeye eklenir, 2. el alımında satıcı adı ve telefonu doldurulur. Ctrl+N, Ctrl+S, Ctrl+Enter, Ctrl+E, Ctrl+P, Ctrl+W, Ctrl+H, F5 ve Esc işlem kısayolları eklendi.",
   "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.7/IkizSoft_TelefonStokTakip_v1.1.7_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.8/IkizSoft_TelefonStokTakip_v1.1.8_Gorsel_Kurulum.exe"
 }
