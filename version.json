@@ -1,6 +1,6 @@
 {
-  "version": "1.1.4",
-  "notes": "Eski veya taşınabilir kurulumlar masaüstü/Başlat kısayolundan algılanır; .2zt veritabanı, firma bilgileri ve mevcut lisans standart klasöre taşınarak yalnızca program dosyaları güncellenir. Windows Ekle/Kaldır desteği korunur.",
+  "version": "1.1.5",
+  "notes": "Yedekten geri yükleme gerçek uygulama klasörüne sabitlendi; SQLite bütünlük kontrolü, WAL/SHM temizliği, güvenlik yedeği ve otomatik yeniden başlatma eklendi. Ürün kategori değişikliğinin eski ilişki nesnesi tarafından geri alınması düzeltildi.",
   "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.4/IkizSoft_TelefonStokTakip_v1.1.4_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.5/IkizSoft_TelefonStokTakip_v1.1.5_Gorsel_Kurulum.exe"
 }
