@@ -1,6 +1,6 @@
 {
-  "version": "1.1.10",
-  "notes": "Firma logosu satış, teknik servis ve 2. el belgelerinde yazdırılırken otomatik olarak tek renk siyaha dönüştürülür. Beyaz arka plan şeffaf bırakılır; renkli logonun fişte siyah ve net görünmesi sağlandı.",
+  "version": "1.1.11",
+  "notes": "Teknik serviste tahmini ve kesin ücret alanları ayrıldı. Girilen tahmini ücret servis fişi ve WhatsApp metnine doğru yansır. Eski kayıtlarda tahmini ücret boşsa mevcut tamir ücreti otomatik kullanılır; servis listesi de kesin ücret yokken tahmini ücreti gösterir.",
   "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.10/IkizSoft_TelefonStokTakip_v1.1.10_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.11/IkizSoft_TelefonStokTakip_v1.1.11_Gorsel_Kurulum.exe"
 }
