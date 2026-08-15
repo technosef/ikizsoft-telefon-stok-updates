@@ -1,6 +1,6 @@
 {
-  "version": "1.1.11",
-  "notes": "Teknik serviste tahmini ve kesin ücret alanları ayrıldı. Girilen tahmini ücret servis fişi ve WhatsApp metnine doğru yansır. Eski kayıtlarda tahmini ücret boşsa mevcut tamir ücreti otomatik kullanılır; servis listesi de kesin ücret yokken tahmini ücreti gösterir.",
+  "version": "1.1.12",
+  "notes": "Kapsamlı mali güvenlik güncellemesi: parçalı ödeme artık hızlı satış ekranında kullanılabilir ve nakit/kart/havale/veresiye tutarları kasa hesabına ayrı yansır. Satış düzeltme/silmede stok, cari borç ve kasa birlikte mutabık kalır. Borçtan fazla tahsilat, müşterisiz veresiye, stok aşımı, negatif fiyat/ücret/gider ve tutarsız ödeme toplamı engellenir. Cari tahsilat tek atomik işlemde kaydedilir. Türkçe ve uluslararası para girişleri güvenli ayrıştırılır. Raporlardaki toplam indirim gösterimi düzeltildi; ürün maliyetine dayalı kâr doğru biçimde Satış Brüt Kârı olarak adlandırıldı.",
   "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.11/IkizSoft_TelefonStokTakip_v1.1.11_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.12/IkizSoft_TelefonStokTakip_v1.1.12_Gorsel_Kurulum.exe"
 }
