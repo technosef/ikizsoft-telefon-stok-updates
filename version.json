@@ -1,6 +1,6 @@
 {
-  "version": "1.1.12",
-  "notes": "Kapsamlı mali güvenlik güncellemesi: parçalı ödeme artık hızlı satış ekranında kullanılabilir ve nakit/kart/havale/veresiye tutarları kasa hesabına ayrı yansır. Satış düzeltme/silmede stok, cari borç ve kasa birlikte mutabık kalır. Borçtan fazla tahsilat, müşterisiz veresiye, stok aşımı, negatif fiyat/ücret/gider ve tutarsız ödeme toplamı engellenir. Cari tahsilat tek atomik işlemde kaydedilir. Türkçe ve uluslararası para girişleri güvenli ayrıştırılır. Raporlardaki toplam indirim gösterimi düzeltildi; ürün maliyetine dayalı kâr doğru biçimde Satış Brüt Kârı olarak adlandırıldı.",
-  "releaseDate": "2026-08-15",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.12/IkizSoft_TelefonStokTakip_v1.1.12_Gorsel_Kurulum.exe"
+  "version": "1.1.13",
+  "notes": "TL ve USD ile alış-satış desteği eklendi. Ürün alış ve satış para birimleri bağımsız seçilebilir; eski kayıtlar TL olarak korunur. USD işlemlerinde satış anındaki TCMB USD döviz satış kuru kayda dondurulur. Hızlı satış ekranında ürün fiyatı dolar olarak, müşterinin ödeyeceği toplam ise anlık TL karşılığıyla birlikte gösterilir. Kasa, cari, kâr ve rapor kayıtları TL üzerinden güvenli biçimde tutulur. Kur alınamazsa USD işlemine izin verilmez; açık sepette para birimi sonradan değişirse satış engellenir. Alış faturaları, düzeltme ekranları, fişler ve işlem logları para birimi ile kur bilgisini gösterir.",
+  "releaseDate": "2026-08-17",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.13/IkizSoft_TelefonStokTakip_v1.1.13_Gorsel_Kurulum.exe"
 }
