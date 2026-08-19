@@ -1,6 +1,6 @@
 {
-  "version": "1.1.15",
-  "notes": "2. el telefon alım ve hedef satış fiyatlarına bağımsız TL/USD seçimi eklendi. Para birimi değiştirildiğinde fiyat aynı formda anında çevrilir ve kayıt boyunca tek kur sabitlenir. Liste, detay, toplam ödenen, beklenen kâr, bilgi fişi ve WhatsApp metinleri para birimini ve TL karşılığını doğru gösterir. Bağlı stok kartına alış/satış para birimleri aktarılır. USD ile alınan cihazın maliyeti satış gününün kuruyla değil, alım sırasında kaydedilen tarihsel kurla hesaplanır. Eski 2. el kayıtları TL olarak korunur; kur yoksa USD kayıt engellenir.",
-  "releaseDate": "2026-08-17",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.15/IkizSoft_TelefonStokTakip_v1.1.15_Gorsel_Kurulum.exe"
+  "version": "1.1.16",
+  "notes": "Ürün ve Stok Yönetimi ekranına Gelişmiş Arama ve Filtreleme Seçenekleri (Metin araması, Kategori, Tedarikçi Firma, Stok Durumu, Para Birimi, Min-Max Fiyat Aralığı) ve Çok Yönlü Sıralama Yöntemleri (A-Z, Z-A, Stok Az/Çok, Fiyat Yüksek/Düşük, Eklenme Tarihi) ile Canlı Stok Özet KPI Kartları (Çeşit, Stok Adedi, Kritik Stok, Toplam Stok Maliyeti, Beklenen Ciro) eklendi.",
+  "releaseDate": "2026-08-19",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.16/IkizSoft_TelefonStokTakip_v1.1.16_Gorsel_Kurulum.exe"
 }
