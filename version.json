@@ -1,6 +1,6 @@
 {
-  "version": "1.1.16",
-  "notes": "Ürün ve Stok Yönetimi ekranına Gelişmiş Arama ve Filtreleme Seçenekleri (Metin araması, Kategori, Tedarikçi Firma, Stok Durumu, Para Birimi, Min-Max Fiyat Aralığı) ve Çok Yönlü Sıralama Yöntemleri (A-Z, Z-A, Stok Az/Çok, Fiyat Yüksek/Düşük, Eklenme Tarihi) ile Canlı Stok Özet KPI Kartları (Çeşit, Stok Adedi, Kritik Stok, Toplam Stok Maliyeti, Beklenen Ciro) eklendi.",
-  "releaseDate": "2026-08-19",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.16/IkizSoft_TelefonStokTakip_v1.1.16_Gorsel_Kurulum.exe"
+  "version": "1.1.17",
+  "notes": "Satış Yönetimi ekranına Kalem Kalem Satılan Ürünler İcmali (Fiş detayı ve tarih bazlı toplam satılan ürünler), Ana Gösterge Paneline Günlük Teknik Servis İşleri listesi ile Gelişmiş Ürün Bazlı, Kategori Bazlı ve Özel Tarih Aralıklı Raporlama (Excel .csv, PDF/HTML ve Yazıcı çıktıları) eklendi.",
+  "releaseDate": "2026-08-26",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.17/IkizSoft_TelefonStokTakip_v1.1.17_Gorsel_Kurulum.exe"
 }
