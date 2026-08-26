@@ -1,6 +1,6 @@
 {
-  "version": "1.1.19",
-  "notes": "Ürün stok maliyet, beklenen ciro ve brüt kâr kartlarında TL ve Dolar (USD) özet birimi seçimi eklendi. $750 formatlama hatası giderildi. Ana gösterge paneline 'Günlük Kalem Kalem Satılan Ürünler' icmal ekranı yerleştirildi, Kritik Stok uyarısı firma ayarlarından isteğe bağlı açılır-kapanır hale getirildi.",
+  "version": "1.1.20",
+  "notes": "Ana gösterge paneli alt alanı düzenlendi: Sol tarafta Satış Fişleri, ortada Günlük Kalem Kalem Satışlar icmali, sağ tarafta Günlük Teknik Servis İşleri yerleştirildi. Kritik stok ayarının kaydetme mantığı düzeltildi ve aktif edildiğinde sağ en dış sütun olarak dördüncü panel şeklinde görünmesi sağlandı.",
   "releaseDate": "2026-08-26",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.19/IkizSoft_TelefonStokTakip_v1.1.19_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.20/IkizSoft_TelefonStokTakip_v1.1.20_Gorsel_Kurulum.exe"
 }
