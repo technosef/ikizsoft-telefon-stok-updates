@@ -1,6 +1,6 @@
 {
-  "version": "1.1.20",
-  "notes": "Ana gösterge paneli alt alanı düzenlendi: Sol tarafta Satış Fişleri, ortada Günlük Kalem Kalem Satışlar icmali, sağ tarafta Günlük Teknik Servis İşleri yerleştirildi. Kritik stok ayarının kaydetme mantığı düzeltildi ve aktif edildiğinde sağ en dış sütun olarak dördüncü panel şeklinde görünmesi sağlandı.",
+  "version": "1.1.21",
+  "notes": "Ana gösterge panelindeki 'Son Yapılan Satış Fişleri' tablosu günlük olarak filtrelendi. Artık yalnızca bugün yapılan satış fişleri görüntülenir.",
   "releaseDate": "2026-08-26",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.20/IkizSoft_TelefonStokTakip_v1.1.20_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.21/IkizSoft_TelefonStokTakip_v1.1.21_Gorsel_Kurulum.exe"
 }
