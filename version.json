@@ -1,6 +1,6 @@
 {
-  "version": "1.1.17",
-  "notes": "Satış Yönetimi ekranına Kalem Kalem Satılan Ürünler İcmali (Fiş detayı ve tarih bazlı toplam satılan ürünler), Ana Gösterge Paneline Günlük Teknik Servis İşleri listesi ile Gelişmiş Ürün Bazlı, Kategori Bazlı ve Özel Tarih Aralıklı Raporlama (Excel .csv, PDF/HTML ve Yazıcı çıktıları) eklendi.",
+  "version": "1.1.18",
+  "notes": "Sol navigasyon menüsü mantıksal ve görsel gruplara ayrıldı (Mağaza & Satış, Servis & İkinci El, Müşteri Firma & Kasa, Raporlar & Yönetim, Sistem & Ayarlar). Kalem Kalem Satılan Ürün İcmalleri, Günlük Teknik Servis Gösterge Paneli ve Excel/PDF Gelişmiş Raporlama modülleri güncellendi.",
   "releaseDate": "2026-08-26",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.17/IkizSoft_TelefonStokTakip_v1.1.17_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.18/IkizSoft_TelefonStokTakip_v1.1.18_Gorsel_Kurulum.exe"
 }
