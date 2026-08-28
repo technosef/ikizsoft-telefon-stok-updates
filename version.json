@@ -1,6 +1,6 @@
 {
-  "version": "1.1.21",
-  "notes": "Ana gösterge panelindeki 'Son Yapılan Satış Fişleri' tablosu günlük olarak filtrelendi. Artık yalnızca bugün yapılan satış fişleri görüntülenir.",
-  "releaseDate": "2026-08-26",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.21/IkizSoft_TelefonStokTakip_v1.1.21_Gorsel_Kurulum.exe"
+  "version": "1.1.22",
+  "notes": "Kalem kalem satış icmalleri ve tüm başlık alanlarına dinamik adet sayıları eklendi. POS indirim tutarlarının ürün ve kategori bazlı ciro/kâr raporlarına oransal düşülmesi sağlandı.",
+  "releaseDate": "2026-08-28",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.22/IkizSoft_TelefonStokTakip_v1.1.22_Gorsel_Kurulum.exe"
 }
