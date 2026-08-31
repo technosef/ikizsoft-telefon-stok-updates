@@ -1,6 +1,6 @@
 {
-  "version": "1.1.22",
-  "notes": "Kalem kalem satış icmalleri ve tüm başlık alanlarına dinamik adet sayıları eklendi. POS indirim tutarlarının ürün ve kategori bazlı ciro/kâr raporlarına oransal düşülmesi sağlandı.",
-  "releaseDate": "2026-08-28",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.22/IkizSoft_TelefonStokTakip_v1.1.22_Gorsel_Kurulum.exe"
+  "version": "1.1.24",
+  "notes": "Teknik Servis Takibi tarih filtresi (varsayÄ±lan bugÃ¼n + bugÃ¼n tuÅŸu) ve tamir iÅŸlemlerinin KÃ¢r/Ciro/ÃœrÃ¼n bazlÄ± raporlamaya entegrasyonu.",
+  "releaseDate": "2026-08-31",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.24/IkizSoft_TelefonStokTakip_v1.1.24_Gorsel_Kurulum.exe"
 }
