@@ -1,6 +1,6 @@
 {
-  "version": "1.1.24",
-  "notes": "Teknik Servis Takibi tarih filtresi (varsayÄ±lan bugÃ¼n + bugÃ¼n tuÅŸu) ve tamir iÅŸlemlerinin KÃ¢r/Ciro/ÃœrÃ¼n bazlÄ± raporlamaya entegrasyonu.",
-  "releaseDate": "2026-08-31",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.24/IkizSoft_TelefonStokTakip_v1.1.24_Gorsel_Kurulum.exe"
+  "version": "1.1.25",
+  "notes": "Kasa defteri erken kapatma korumasÄ±, canlÄ± kasa takibi, kasayÄ± yeniden aÃ§ma/dÃ¼zeltme butonu ve gÃ¼nlÃ¼k kalem satÄ±ÅŸlarda saat bazlÄ± sÄ±ralama.",
+  "releaseDate": "2026-09-03",
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.25/IkizSoft_TelefonStokTakip_v1.1.25_Gorsel_Kurulum.exe"
 }
