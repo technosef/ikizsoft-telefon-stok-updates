@@ -1,6 +1,6 @@
 {
-  "version": "1.1.25",
-  "notes": "Kasa defteri erken kapatma korumasÄ±, canlÄ± kasa takibi, kasayÄ± yeniden aÃ§ma/dÃ¼zeltme butonu ve gÃ¼nlÃ¼k kalem satÄ±ÅŸlarda saat bazlÄ± sÄ±ralama.",
+  "version": "1.1.26",
+  "notes": "Ä°ki Kademeli Kasa Mimarisi: GÃ¼nlÃ¼k Ã‡ekmece KasasÄ± (bozukluk devri & tezgah kasasÄ±) ve Ana Kasa (ÅŸirket birikimi, toptancÄ±/kira giderleri & yÄ±l devri) ayrÄ±mÄ±.",
   "releaseDate": "2026-09-03",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.25/IkizSoft_TelefonStokTakip_v1.1.25_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.26/IkizSoft_TelefonStokTakip_v1.1.26_Gorsel_Kurulum.exe"
 }
