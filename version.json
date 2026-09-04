@@ -1,6 +1,6 @@
 {
-  "version": "1.1.28",
-  "notes": "Ana Kasa Virman ve Nakit Ã‡Ä±kÄ±ÅŸÄ± butonlarÄ±ndaki System.Windows.Forms hatasÄ± giderildi; modern ÅŸÄ±k WPF Kasa Ä°ÅŸlem DiyaloÄŸu eklendi.",
+  "version": "1.1.29",
+  "notes": "Genel ve GÃ¼nlÃ¼k Gider/Gelir ayrÄ±mÄ±: SSK/SGK, Kira, Fatura, MaaÅŸ, Muhasebe ve GÃ¼nlÃ¼k Yemek/Ã‡ay/Kargo kategorileri eklendi, otomatik kasa yÃ¶nlendirmesi saÄŸlandÄ±.",
   "releaseDate": "2026-09-04",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.28/IkizSoft_TelefonStokTakip_v1.1.28_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.29/IkizSoft_TelefonStokTakip_v1.1.29_Gorsel_Kurulum.exe"
 }
