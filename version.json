@@ -1,6 +1,6 @@
 {
-  "version": "1.1.27",
-  "notes": "Kasa Defteri KapanÄ±ÅŸ GÃ¶rÃ¼nÃ¼mÃ¼: GÃ¼n sonu kapatÄ±ldÄ±ÄŸÄ±nda Ã§ekmecede kalan bozukluk (yeÅŸil kart) ve Ana Kasaya devredilen tutar (kehribar kart) net olarak ayrÄ±ldÄ±.",
+  "version": "1.1.28",
+  "notes": "Ana Kasa Virman ve Nakit Ã‡Ä±kÄ±ÅŸÄ± butonlarÄ±ndaki System.Windows.Forms hatasÄ± giderildi; modern ÅŸÄ±k WPF Kasa Ä°ÅŸlem DiyaloÄŸu eklendi.",
   "releaseDate": "2026-09-04",
-  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.27/IkizSoft_TelefonStokTakip_v1.1.27_Gorsel_Kurulum.exe"
+  "downloadUrl": "https://github.com/technosef/ikizsoft-telefon-stok-updates/releases/download/v1.1.28/IkizSoft_TelefonStokTakip_v1.1.28_Gorsel_Kurulum.exe"
 }
